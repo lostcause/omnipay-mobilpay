@@ -21,7 +21,7 @@
   "require": {
     "php": ">=7.2.0",
     "omnipay/common": "~3.0",
-    "php-http/guzzle6-adapter": "~2",
+    "php-http/guzzle7-adapter": "^0.1"
     "ext-dom": "*",
     "ext-simplexml": "*",
     "ext-soap": "*"
